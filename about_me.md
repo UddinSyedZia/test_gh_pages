@@ -1,2 +1,3 @@
-<About Me>
+<h1>About Me</h1>
+  
 My name is Syed Zia Uddin.  I am a PhD student in the mechanical engineering department at Carnegie Mellon University, Pittsburgh, Pennsylvania
